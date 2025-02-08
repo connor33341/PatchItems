@@ -1,0 +1,6 @@
+name: PatchItems
+version: '1.0-SNAPSHOT'
+main: org.connor33341.patchItems.PatchItems
+api-version: '1.21'
+prefix: PatchItems
+website: connor33341.github.io
